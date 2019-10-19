@@ -7,3 +7,5 @@ RUN apt-get upgrade -y
 RUN apt-get install mysql-server -y
 
 CMD mysql
+
+hola
